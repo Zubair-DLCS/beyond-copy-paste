@@ -1,0 +1,909 @@
+{
+ "source": "Seeds: neutral English posts from the IRA tweet archive (FiveThirtyEight/Clemson), lightly normalised. Paraphrases: written by an AI language model, four per seed, meaning-preserving.",
+ "campaigns": [
+  {
+   "campaign": 0,
+   "messages": [
+    {
+     "seed": "Yankees are back to being the Evil Empire, and the Red Sox feel the pain",
+     "para": [
+      "The Evil Empire is back in the Bronx and Boston is hurting",
+      "Red Sox feeling it as the Yankees return to their Evil Empire ways #MLB",
+      "Yankees reclaim the Evil Empire title, much to the Red Sox's dismay",
+      "Boston's pain grows as New York's Evil Empire rises again"
+     ]
+    },
+    {
+     "seed": "'Gray areas' put Aurora Housing Authority chief over public agency and developer",
+     "para": [
+      "Aurora Housing Authority head oversees both the agency and a developer due to 'gray areas'",
+      "Gray areas leave the Aurora housing chief in charge of a public agency and a private developer #Aurora",
+      "Aurora Housing Authority chief's dual role over agency and developer raises questions",
+      "Unclear rules let Aurora's housing chief run the public agency and a development firm"
+     ]
+    },
+    {
+     "seed": "Backup campus power plants at Dillard, UNO part of resiliency plan",
+     "para": [
+      "Dillard and UNO add standby power plants on campus as part of a resilience plan",
+      "Resiliency plan brings backup power stations to Dillard and UNO campuses",
+      "New Orleans universities Dillard and UNO to get emergency campus power plants",
+      "Campus backup generators at UNO and Dillard are part of a new resilience push #NOLA"
+     ]
+    },
+    {
+     "seed": "Surround yourself with positive people who will support you when it rains, not just when it shines.",
+     "para": [
+      "Keep people around you who stand by you in the storms, not only in the sunshine",
+      "Choose friends who support you on rainy days as well as sunny ones",
+      "Real ones show up when it pours, not just when things are bright #positivity",
+      "Fill your life with positive people who back you in bad weather as well as good"
+     ]
+    },
+    {
+     "seed": "Myanmar braces for more flooding as international aid flows in #environment",
+     "para": [
+      "More floods expected in Myanmar while foreign aid arrives",
+      "International relief reaches Myanmar as the country prepares for further flooding #Myanmar",
+      "Myanmar gets ready for new floods with global aid pouring in",
+      "As aid flows in from abroad, Myanmar braces for another round of flooding"
+     ]
+    },
+    {
+     "seed": "France seeks 1.6 billion euros in back taxes from Google #tech",
+     "para": [
+      "Google faces a 1.6 billion euro back-tax demand from France",
+      "French authorities want 1.6bn euros in unpaid taxes from Google #business",
+      "France is chasing Google for 1.6 billion euros in back taxes",
+      "Paris demands EUR 1.6 billion from Google over taxes owed"
+     ]
+    },
+    {
+     "seed": "Brazil top court accepts plea deal by ex-senator linked to top politicians",
+     "para": [
+      "Brazil's Supreme Court approves plea deal from ex-senator tied to senior politicians",
+      "Plea bargain of former senator with links to top politicians accepted by Brazil's top court #Brazil",
+      "Brazil's highest court okays a former senator's plea deal implicating powerful figures",
+      "Ex-senator's plea agreement accepted by Brazil's top court"
+     ]
+    },
+    {
+     "seed": "I wanted to learn a few foreign languages, and therefore I had to go abroad. - Ella Maillart",
+     "para": [
+      "\"To learn a few foreign languages, I had to go abroad.\" - Ella Maillart",
+      "Ella Maillart: wanting to learn other languages is what sent me abroad",
+      "Learning languages meant leaving home, as Ella Maillart put it #travel",
+      "Ella Maillart said she went abroad because she wanted to pick up some foreign languages"
+     ]
+    },
+    {
+     "seed": "Samsung to replace or refund 1 million U.S. Galaxy Note 7 phones #tech",
+     "para": [
+      "Samsung will swap or refund about a million Galaxy Note 7 phones in the US",
+      "One million US Galaxy Note 7 units to be replaced or refunded by Samsung #Samsung",
+      "Samsung offers refunds or replacements for 1M Note 7 phones sold in the US",
+      "Galaxy Note 7 recall: Samsung to replace or refund a million American devices"
+     ]
+    },
+    {
+     "seed": "A definitive guide to the best cheap-eats destinations in the D.C. area",
+     "para": [
+      "The ultimate list of cheap eats around Washington, D.C.",
+      "Where to eat well for less in D.C.: a complete guide #DCfood",
+      "Budget-friendly food spots in the D.C. area, all in one guide",
+      "Hungry and on a budget? The best cheap eats across the D.C. region"
+     ]
+    },
+    {
+     "seed": "Former Kansas representative and farmer announces run for Kansas governor in 2018",
+     "para": [
+      "Ex-lawmaker and farmer launches 2018 bid for Kansas governor",
+      "A former Kansas representative who farms says he's running for governor in 2018 #ksleg",
+      "Kansas governor's race gets a new candidate: a farmer and former state rep",
+      "2018 Kansas gubernatorial run announced by former representative and farmer"
+     ]
+    },
+    {
+     "seed": "Macau billionaire in U.N. bribe case drops bid for speedy trial",
+     "para": [
+      "Macau billionaire charged in UN bribery case abandons request for a quick trial",
+      "No speedy trial after all for the Macau tycoon in the UN bribe case #news",
+      "Billionaire from Macau withdraws speedy trial bid in United Nations bribery prosecution",
+      "UN bribe case: Macau billionaire drops push for a fast trial"
+     ]
+    }
+   ]
+  },
+  {
+   "campaign": 1,
+   "messages": [
+    {
+     "seed": "Canada PM says will see if can stick to budget deficit target #world",
+     "para": [
+      "Canadian prime minister unsure whether the budget deficit target will hold",
+      "Canada's PM will review if the deficit goal can still be met #Canada",
+      "Trudeau says the government will see whether it can keep to its deficit target",
+      "Canada may not stick to its budget deficit target, PM signals"
+     ]
+    },
+    {
+     "seed": "Investigators say Cleveland, University Heights bank robberies may be connected",
+     "para": [
+      "Police think bank robberies in Cleveland and University Heights could be linked",
+      "Possible link between Cleveland and University Heights bank heists, investigators say",
+      "Detectives probe whether the Cleveland and University Heights robberies are connected #Cleveland",
+      "Bank robberies in two Cleveland-area cities may be the work of the same suspects"
+     ]
+    },
+    {
+     "seed": "Early results from Ivory Coast election show Ouattara ahead #world",
+     "para": [
+      "Ouattara leads in early Ivory Coast election returns",
+      "First results in Ivory Coast's vote put Ouattara in front #Africa",
+      "Ivory Coast election: initial count shows incumbent Ouattara ahead",
+      "Ouattara out in front as early Ivorian election results come in"
+     ]
+    },
+    {
+     "seed": "Celebrities join Native American pipeline protest in Washington, DC",
+     "para": [
+      "Stars turn out in Washington to back the Native American protest against the pipeline",
+      "Famous faces join tribal pipeline demonstration in DC",
+      "Celebrities march alongside Native Americans protesting the pipeline in the capital",
+      "Washington pipeline protest by Native American groups draws celebrity support #NoDAPL"
+     ]
+    },
+    {
+     "seed": "Single-payer health care proposal for California would cover all residents' medical expenses",
+     "para": [
+      "California single-payer plan would pay for every resident's medical costs",
+      "Proposed single-payer system in California covers all residents' health expenses #healthcare",
+      "A California single-payer proposal aims to cover medical bills for all residents",
+      "All Californians' medical expenses would be covered under single-payer proposal"
+     ]
+    },
+    {
+     "seed": "One day, your life is going to flash before your eyes. Make sure it's worth watching.",
+     "para": [
+      "Someday your whole life will replay in front of you - make it a show worth seeing",
+      "Live a life that's worth watching when it flashes before your eyes one day",
+      "When your life flashes past your eyes someday, let it be something worth the view :)",
+      "Make your life worth the replay, because one day you'll see it all flash by #motivation"
+     ]
+    },
+    {
+     "seed": "Coweta County Fire Department 17-year veteran dies in the line of duty",
+     "para": [
+      "Coweta County firefighter with 17 years of service dies on duty",
+      "A 17-year veteran of Coweta County Fire has died in the line of duty #firefighters",
+      "Line-of-duty death: Coweta County loses a 17-year fire department veteran",
+      "Coweta County Fire Department mourns a 17-year member killed on duty"
+     ]
+    },
+    {
+     "seed": "Restrictions to remain for rivers hardest hit by Colorado mine waste spill",
+     "para": [
+      "Rivers worst affected by the Colorado mine spill will stay under restrictions",
+      "Limits stay in place on rivers most damaged by Colorado's mine waste leak #environment",
+      "Colorado mine spill: restrictions continue for the most contaminated rivers",
+      "No lifting of river restrictions yet where the Colorado mine waste hit hardest"
+     ]
+    },
+    {
+     "seed": "St. Bernard probes scrap metal sales after revenue drops",
+     "para": [
+      "St. Bernard Parish investigates scrap metal sales following a drop in revenue",
+      "Falling revenue triggers a probe into scrap metal sales in St. Bernard #NOLA",
+      "Scrap metal sales under investigation in St. Bernard after income dips",
+      "St. Bernard looks into its scrap metal sales as revenue declines"
+     ]
+    },
+    {
+     "seed": "Live-tweet every WWE show if you want lots of followers #ThingsToKnowAboutTwitter",
+     "para": [
+      "Want more followers? Live-tweet every WWE event #ThingsToKnowAboutTwitter",
+      "Pro tip for Twitter growth: live-tweet all the WWE shows",
+      "The secret to tons of followers is live-tweeting wrestling every week",
+      "If you live-tweet each WWE show the followers will come #twittertips"
+     ]
+    },
+    {
+     "seed": "U.S. intelligence chief says China is top suspect in government agency hacks",
+     "para": [
+      "China is the leading suspect in hacks on US agencies, intelligence chief says",
+      "US spy chief points to China as main suspect in government data breaches #cybersecurity",
+      "Top US intelligence official names China as prime suspect in agency hacking",
+      "Government agency breaches: China tops the suspect list, says US intel chief"
+     ]
+    },
+    {
+     "seed": "Warren Buffett and Quicken Loans founder in Yahoo bid, sources say #tech",
+     "para": [
+      "Buffett teams up with Quicken Loans founder on a Yahoo bid, sources report",
+      "Sources: Warren Buffett and Dan Gilbert are backing a bid for Yahoo #business",
+      "Yahoo bid reportedly involves Warren Buffett and the founder of Quicken Loans",
+      "Warren Buffett joins Quicken Loans' founder in bidding for Yahoo, according to sources"
+     ]
+    }
+   ]
+  },
+  {
+   "campaign": 2,
+   "messages": [
+    {
+     "seed": "Janet Jackson tour moved to 2017",
+     "para": [
+      "Janet Jackson pushes her tour back to 2017",
+      "Fans will have to wait: Janet Jackson's tour is now scheduled for 2017 #music",
+      "Janet Jackson postpones tour dates until 2017",
+      "The Janet Jackson tour has been rescheduled for next year"
+     ]
+    },
+    {
+     "seed": "South Korea says it will fine Nissan over manipulation of emissions data #environment",
+     "para": [
+      "Seoul plans to penalise Nissan for rigging emissions figures",
+      "Nissan to be fined by South Korea over doctored emissions results #cars",
+      "South Korean regulators move to fine Nissan for manipulating pollution data",
+      "Korea announces a fine for Nissan after emissions data was manipulated"
+     ]
+    },
+    {
+     "seed": "Balakian's 'Ozone Journal' wins prize for poetry",
+     "para": [
+      "Peter Balakian takes the poetry prize for 'Ozone Journal'",
+      "'Ozone Journal' by Balakian named winner of poetry award #books",
+      "Poetry honor goes to Balakian's collection Ozone Journal",
+      "Balakian wins poetry prize with his book 'Ozone Journal'"
+     ]
+    },
+    {
+     "seed": "The very simple hack that makes peeling hard-boiled eggs even easier",
+     "para": [
+      "This easy trick makes peeling hard-boiled eggs a breeze",
+      "Peeling boiled eggs just got simpler with this hack #kitchenhacks",
+      "The simplest way to peel a hard-boiled egg, explained",
+      "A super easy hack for perfectly peeled hard-boiled eggs"
+     ]
+    },
+    {
+     "seed": "Authorities destroy pipe bomb found along Fox River near Oswego",
+     "para": [
+      "Pipe bomb discovered by the Fox River near Oswego is safely destroyed",
+      "Bomb squad disposes of pipe bomb found along Fox River in Oswego area #Illinois",
+      "Authorities detonate a pipe bomb found near the Fox River outside Oswego",
+      "Explosive device found on Fox River bank near Oswego destroyed by officials"
+     ]
+    },
+    {
+     "seed": "Four Oakland County Circuit Court judges honored in business publication",
+     "para": [
+      "Business publication honors four Oakland County circuit judges",
+      "Four judges from Oakland County Circuit Court recognized by a business magazine #Michigan",
+      "Oakland County: four circuit court judges receive business press honors",
+      "Recognition for four Oakland County Circuit Court judges in a business publication"
+     ]
+    },
+    {
+     "seed": "How Paul Hollywood became the star of The Great British Bake Off",
+     "para": [
+      "The rise of Paul Hollywood to Great British Bake Off fame",
+      "How did Paul Hollywood become Bake Off's biggest star? #GBBO",
+      "Paul Hollywood's path to stardom on The Great British Bake Off",
+      "From baker to celebrity: Paul Hollywood and the Great British Bake Off"
+     ]
+    },
+    {
+     "seed": "New 'Captain America: Civil War' trailer gives us Spider-Man and more",
+     "para": [
+      "Spider-Man finally appears in the latest Captain America: Civil War trailer",
+      "The new Civil War trailer is here and it includes Spider-Man #Marvel",
+      "Latest 'Captain America: Civil War' trailer reveals Spider-Man and lots more",
+      "Captain America: Civil War drops a new trailer featuring Spidey"
+     ]
+    },
+    {
+     "seed": "The fastest teenagers in America run for a track club in Miami Gardens",
+     "para": [
+      "America's fastest teens train with a track club in Miami Gardens",
+      "A Miami Gardens track club is home to the quickest teenagers in the country #track",
+      "Meet the Miami Gardens track club producing the nation's fastest teens",
+      "Some of the fastest teenage runners in the US compete for one Miami Gardens club"
+     ]
+    },
+    {
+     "seed": "Previewing the Seattle Seahawks-Carolina Panthers game Sunday",
+     "para": [
+      "Sunday preview: Seahawks take on the Panthers",
+      "What to expect when Seattle faces Carolina this Sunday #Seahawks",
+      "Seahawks vs Panthers on Sunday - our game preview",
+      "Breaking down Sunday's Seattle-Carolina matchup"
+     ]
+    },
+    {
+     "seed": "Insight: how the world's five biggest slums are shaping their futures",
+     "para": [
+      "How the world's five largest slums are building their own futures",
+      "Inside the five biggest slums on Earth and the futures they're shaping #cities",
+      "The world's five largest slums and how they are changing",
+      "A look at how the five biggest slums worldwide are carving out their future"
+     ]
+    },
+    {
+     "seed": "Netflix global push grabs more customers than expected; shares jump #tech",
+     "para": [
+      "Netflix shares climb as global expansion brings in more subscribers than forecast",
+      "Better-than-expected subscriber growth from Netflix's global rollout lifts the stock #NFLX",
+      "Netflix beats subscriber estimates thanks to its international push; stock rises",
+      "Stronger global sign-ups send Netflix shares higher"
+     ]
+    }
+   ]
+  },
+  {
+   "campaign": 3,
+   "messages": [
+    {
+     "seed": "Kelsea Ballerini wins New Female Artist of the Year at the ACMs",
+     "para": [
+      "Kelsea Ballerini takes home New Female Artist of the Year at the ACM Awards",
+      "ACM win for Kelsea Ballerini as New Female Artist of the Year #ACMawards",
+      "New Female Artist of the Year at the ACMs goes to Kelsea Ballerini",
+      "Kelsea Ballerini named the ACMs' best new female artist"
+     ]
+    },
+    {
+     "seed": "Kinloch fire board appoints interim chief following fraud charges against ex-chief",
+     "para": [
+      "Kinloch fire board names a temporary chief after the former chief is charged with fraud",
+      "Interim fire chief appointed in Kinloch as ex-chief faces fraud charges",
+      "After fraud charges hit its former chief, Kinloch's fire board picks a stand-in #STL",
+      "New acting chief for Kinloch fire department following ex-chief's fraud case"
+     ]
+    },
+    {
+     "seed": "Major powers meet to revive Israeli-Palestinian peacemaking #world",
+     "para": [
+      "World powers gather to restart stalled Israeli-Palestinian peace talks",
+      "Global powers hold talks aimed at reviving the Middle East peace process #news",
+      "Major nations meet in a bid to breathe life into Israeli-Palestinian diplomacy",
+      "Effort to revive Israel-Palestine peace efforts brings major powers together"
+     ]
+    },
+    {
+     "seed": "Danish taxi drivers to protest against ride-hailing service Uber #tech",
+     "para": [
+      "Cab drivers in Denmark plan a protest over Uber's ride-hailing app",
+      "Uber faces a protest from taxi drivers across Denmark #business",
+      "Taxi drivers in Denmark are taking to the streets against Uber",
+      "Danish cabbies prepare demonstration targeting ride-share giant Uber"
+     ]
+    },
+    {
+     "seed": "Canon cuts outlook as weak camera sales hit second-quarter profit #tech",
+     "para": [
+      "Canon lowers its forecast after poor camera sales dent Q2 profits",
+      "Slumping camera sales hurt Canon's second-quarter earnings, outlook trimmed #business",
+      "Weak demand for cameras forces Canon to cut its full-year outlook",
+      "Canon's Q2 profit falls on soft camera sales; company revises guidance down"
+     ]
+    },
+    {
+     "seed": "Day 1 observations from Under Armour All-America Game practice #sports",
+     "para": [
+      "First-day takeaways from Under Armour All-America Game practice",
+      "What stood out on day one of the Under Armour All-America practices #recruiting",
+      "Under Armour All-America Game: notes from the opening practice",
+      "Day one practice observations ahead of the Under Armour All-America Game"
+     ]
+    },
+    {
+     "seed": "Sugar Land opens doors of Smart Financial Centre for behind-the-scenes peek",
+     "para": [
+      "Sugar Land offers a behind-the-scenes look inside the Smart Financial Centre",
+      "Smart Financial Centre in Sugar Land opens up for a sneak peek tour #Houston",
+      "Get a backstage look: Sugar Land opens the new Smart Financial Centre to visitors",
+      "Sugar Land's Smart Financial Centre welcomes the public for a behind-the-curtain tour"
+     ]
+    },
+    {
+     "seed": "Joliet man charged with breaching O'Hare checkpoint and trying to board plane",
+     "para": [
+      "Joliet man faces charges after slipping past an O'Hare checkpoint to board a flight",
+      "O'Hare security breach: Joliet man charged for trying to get on a plane #Chicago",
+      "Charges filed against a Joliet man who breached security at O'Hare",
+      "Man from Joliet accused of getting past O'Hare screening and attempting to board"
+     ]
+    },
+    {
+     "seed": "Kansas City Chiefs at Houston Texans: TV channel, time and live stream #sports",
+     "para": [
+      "Chiefs vs Texans in Houston - kickoff time, TV and how to stream it",
+      "How to watch Kansas City at Houston: channel, start time and streaming #NFL",
+      "Texans host the Chiefs: game time, broadcast channel and live stream info",
+      "Where to watch Chiefs-Texans today, plus time and live stream details"
+     ]
+    },
+    {
+     "seed": "Chicago State University students and faculty protest Springfield budget standoff",
+     "para": [
+      "Chicago State students and faculty rally against the Springfield budget impasse",
+      "Budget stalemate in Springfield sparks protest at Chicago State University #Illinois",
+      "Faculty and students at Chicago State protest the state budget standoff",
+      "Chicago State University community demonstrates over Illinois budget deadlock"
+     ]
+    },
+    {
+     "seed": "All lanes have reopened after 8-car crash on Route 128 north in Woburn",
+     "para": [
+      "Route 128 northbound in Woburn fully reopened following an eight-vehicle crash",
+      "Eight-car pileup cleared, all Route 128 north lanes open again in Woburn #traffic",
+      "Woburn: lanes back open on Route 128 north after multi-car crash",
+      "Traffic moving again on Route 128 North in Woburn after an 8-car collision"
+     ]
+    },
+    {
+     "seed": "Packing for Thanksgiving week back at home! Thankful for my family more than ever this year.",
+     "para": [
+      "Heading home for Thanksgiving week - more grateful for my family than ever",
+      "Bags packed for Thanksgiving at home, so thankful for family this year #thankful",
+      "Thanksgiving week at home is almost here, and I've never been more thankful for my family",
+      "Getting ready to go home for Thanksgiving; this year I'm especially grateful for family"
+     ]
+    }
+   ]
+  },
+  {
+   "campaign": 4,
+   "messages": [
+    {
+     "seed": "Bison gores woman attempting selfie photo at Yellowstone park",
+     "para": [
+      "Woman trying to take a selfie gets gored by a bison in Yellowstone",
+      "Yellowstone visitor injured by bison while posing for a selfie",
+      "A selfie attempt at Yellowstone ends with a bison goring a tourist",
+      "Bison charges and gores woman snapping a selfie in Yellowstone National Park #news"
+     ]
+    },
+    {
+     "seed": "Pilot dies in helicopter crash near St. Louis hospital",
+     "para": [
+      "Helicopter goes down close to a St. Louis hospital, killing the pilot",
+      "The pilot was killed when a chopper crashed by a hospital in St. Louis",
+      "St. Louis: pilot lost in helicopter crash next to hospital #breaking",
+      "Fatal chopper crash near a St. Louis medical center claims pilot's life"
+     ]
+    },
+    {
+     "seed": "A splash of color on the riverfront: opening day on trails mixes cyclists and artists",
+     "para": [
+      "Cyclists and artists bring color to the riverfront trails on opening day",
+      "Riverfront trail opening day blends bikes and art #outdoors",
+      "Opening day on the river trails turns colorful with riders and artists side by side",
+      "Bikers and painters share the riverfront as new trails open"
+     ]
+    },
+    {
+     "seed": "Ex-board member talks about ending Plum School District 'corruption' after grand jury appearance",
+     "para": [
+      "Former Plum school board member speaks on rooting out district corruption after testifying",
+      "After facing a grand jury, an ex-board member discusses cleaning up Plum School District",
+      "Plum School District corruption: former board member opens up following grand jury testimony #local",
+      "Ending corruption in Plum schools - a former board member's take after the grand jury"
+     ]
+    },
+    {
+     "seed": "Norway to research ways to capture carbon from industrial plants #environment",
+     "para": [
+      "Norway launches research into capturing carbon from factories",
+      "Carbon capture at industrial sites is Norway's next research project #climate",
+      "Norway will study methods to trap carbon emitted by industrial plants",
+      "Industrial carbon capture gets a research push from Norway"
+     ]
+    },
+    {
+     "seed": "Japan Cabinet OKs record defense budget amid China concern #business",
+     "para": [
+      "Japanese cabinet approves its biggest ever defense budget as China worries grow",
+      "Record defense spending gets the green light in Japan amid concerns over China #Japan",
+      "Japan signs off on all-time high military budget, citing China",
+      "China concerns push Japan's cabinet to approve record defence budget"
+     ]
+    },
+    {
+     "seed": "Section of Current River opens in time for floating season, Memorial Day",
+     "para": [
+      "Part of the Current River reopens just in time for Memorial Day floating",
+      "Floating season is on: a stretch of the Current River is open again for Memorial Day #Missouri",
+      "Current River section opens ahead of the Memorial Day float season",
+      "Just before Memorial Day, a portion of the Current River reopens to floaters"
+     ]
+    },
+    {
+     "seed": "Iran human rights activist gets 10-year sentence, supporters say #politics",
+     "para": [
+      "Supporters report that an Iranian human rights campaigner has been handed ten years in prison",
+      "A decade behind bars for an Iranian rights activist, according to her backers #Iran",
+      "Iranian court jails human rights advocate for 10 years, supporters claim",
+      "Ten-year prison term for Iran rights activist - that's what her supporters are saying"
+     ]
+    },
+    {
+     "seed": "Once loaned to DIA, Taubman paintings hit auction block #entertainment",
+     "para": [
+      "Taubman paintings that were once lent to the DIA are going up for auction",
+      "Artworks from the Taubman collection, previously on loan to DIA, head to auction #art",
+      "Former DIA loan: Taubman's paintings now up for sale at auction",
+      "The Taubman canvases once displayed at the Detroit Institute of Arts are being auctioned"
+     ]
+    },
+    {
+     "seed": "Ohio medical marijuana advocates left off advisory panel; officials promise transparent rules process",
+     "para": [
+      "Medical marijuana advocates excluded from Ohio advisory panel, though officials pledge transparency",
+      "Ohio leaves cannabis advocates off its advisory committee but says the rule-making will be open #Ohio",
+      "Officials promise an open process after Ohio medical marijuana supporters are left off the panel",
+      "Ohio's medical marijuana panel won't include advocates; state vows transparent rules"
+     ]
+    },
+    {
+     "seed": "A-B to invest $500 million in the U.S. this year, including $20 million in the St. Louis area",
+     "para": [
+      "Anheuser-Busch plans $500M US investment this year, with $20M going to St. Louis",
+      "A-B commits half a billion dollars to US operations, $20 million of it in the St. Louis region #STL",
+      "Anheuser-Busch to spend $500 million in the US in 2017, including St. Louis upgrades",
+      "St. Louis area to get $20 million of Anheuser-Busch's $500 million US investment"
+     ]
+    },
+    {
+     "seed": "Ohio State tops Akron in NIT opener as Jaquan Lyle and Marc Loving both score 18",
+     "para": [
+      "Ohio State beats Akron in NIT first round behind 18 each from Lyle and Loving",
+      "Buckeyes open NIT with win over Akron; Jaquan Lyle and Marc Loving drop 18 apiece #NIT",
+      "Lyle and Loving score 18 each as Ohio State gets past Akron in the NIT opener",
+      "NIT: Ohio State defeats Akron, with Jaquan Lyle and Marc Loving each tallying 18"
+     ]
+    }
+   ]
+  },
+  {
+   "campaign": 5,
+   "messages": [
+    {
+     "seed": "Men steal kegs from Boca Raton restaurant on St. Patrick's Day #Miami",
+     "para": [
+      "Beer kegs swiped from a Boca Raton restaurant on St. Paddy's Day",
+      "Thieves make off with kegs from Boca Raton eatery during St. Patrick's Day #local",
+      "St. Patrick's Day keg theft at a Boca Raton restaurant",
+      "Two men caught stealing kegs from a Boca restaurant on St. Patrick's Day"
+     ]
+    },
+    {
+     "seed": "Peninsula Animal Shelter to shutter, nearly 200 cats need homes #SanJose",
+     "para": [
+      "Peninsula animal shelter is closing and almost 200 cats need to be adopted",
+      "Nearly 200 cats looking for homes as Peninsula shelter prepares to close #adoptdontshop",
+      "Shelter closure on the Peninsula leaves close to 200 cats in need of adoption",
+      "Peninsula Animal Shelter shutting down - can you give one of its 200 cats a home?"
+     ]
+    },
+    {
+     "seed": "Catholic Mass Mob comes to Sacred Heart Major Seminary in Detroit",
+     "para": [
+      "Detroit's Sacred Heart Major Seminary hosts the latest Catholic Mass Mob",
+      "Mass Mob gathers Catholics at Sacred Heart Major Seminary in Detroit #Detroit",
+      "Catholic Mass Mob heads to Detroit's Sacred Heart seminary",
+      "Sacred Heart Major Seminary welcomes a Catholic Mass Mob this weekend"
+     ]
+    },
+    {
+     "seed": "Exclusive: hospital bed shortage forces mentally ill inmates to remain jailed",
+     "para": [
+      "Shortage of hospital beds keeps mentally ill inmates stuck in jail",
+      "Mentally ill prisoners left in jail because there are no hospital beds #mentalhealth",
+      "Lack of psychiatric beds means inmates with mental illness stay behind bars",
+      "Exclusive report: mentally ill inmates remain jailed amid hospital bed shortage"
+     ]
+    },
+    {
+     "seed": "Driver tries in vain to save eagle hit by his pickup near Port Orchard",
+     "para": [
+      "Port Orchard driver tries to rescue an eagle struck by his truck, but it doesn't survive",
+      "A man's attempt to save an eagle he hit with his pickup near Port Orchard fails #local",
+      "Eagle hit by pickup near Port Orchard dies despite driver's rescue effort",
+      "Near Port Orchard, a driver's effort to save the eagle his truck struck ends sadly"
+     ]
+    },
+    {
+     "seed": "Netflix and chill on repeat = a wasted summer #FallDepressionReasons",
+     "para": [
+      "Spent the whole summer on Netflix and chill, now it's gone #FallDepressionReasons",
+      "Netflix and chill every night means you blinked and summer's over",
+      "Summer wasted on endless Netflix and chill sessions #fall",
+      "Too much Netflix and chill, not enough summer"
+     ]
+    },
+    {
+     "seed": "New Missouri prison officials try to breathe life into giant halfway house in St. Louis",
+     "para": [
+      "Missouri's new prison leadership looks to revive a huge St. Louis halfway house",
+      "New corrections officials aim to reinvigorate St. Louis's large halfway house #Missouri",
+      "Big St. Louis halfway house gets fresh attention from new Missouri prison officials",
+      "Missouri prison officials try to turn around a giant halfway house in St. Louis"
+     ]
+    },
+    {
+     "seed": "In WIAA rule change, schools must now cooperate with investigators after Bellevue probe",
+     "para": [
+      "After the Bellevue investigation, WIAA now requires schools to cooperate with investigators",
+      "WIAA changes its rules so schools must assist investigators following the Bellevue case #WIAA",
+      "Schools now obligated to cooperate with probes under new WIAA rule",
+      "Bellevue probe leads WIAA to mandate school cooperation with investigators"
+     ]
+    },
+    {
+     "seed": "FCA to add Apple CarPlay and Android Auto on some models",
+     "para": [
+      "Fiat Chrysler bringing Apple CarPlay and Android Auto to selected vehicles",
+      "Some FCA models will now support CarPlay and Android Auto #cars",
+      "Apple CarPlay and Android Auto coming to certain Fiat Chrysler cars",
+      "FCA adds smartphone integration with CarPlay and Android Auto on several models"
+     ]
+    },
+    {
+     "seed": "Carbon emissions highest in 66 million years, since the dinosaur age #science",
+     "para": [
+      "CO2 emissions now at their highest level since the dinosaurs, 66 million years ago",
+      "Carbon output hits a 66-million-year high, scientists say #climate",
+      "We are emitting carbon faster than at any time since the age of the dinosaurs",
+      "Study: today's carbon emissions are the highest in 66 million years"
+     ]
+    },
+    {
+     "seed": "Defending champ Villanova, Kansas, UNC, Gonzaga take No. 1 seeds in NCAA Tournament",
+     "para": [
+      "Villanova, Kansas, North Carolina and Gonzaga land top seeds for March Madness",
+      "NCAA Tournament No. 1 seeds go to champs Villanova plus Kansas, UNC and Gonzaga #MarchMadness",
+      "Top seeds announced: Villanova, Kansas, UNC and Gonzaga lead the NCAA bracket",
+      "Reigning champion Villanova among four No. 1 seeds alongside Kansas, UNC, Gonzaga"
+     ]
+    },
+    {
+     "seed": "Reports of glass in frozen meals spark recall of Lean Cuisine, Stouffer's, DiGiorno",
+     "para": [
+      "Nestle recalls Lean Cuisine, Stouffer's and DiGiorno products after glass found in meals",
+      "Possible glass pieces in frozen dinners prompt recall of Stouffer's, Lean Cuisine, DiGiorno #recall",
+      "Frozen meal recall: Lean Cuisine, Stouffer's and DiGiorno pulled over glass reports",
+      "Glass contamination reports lead to recall of popular frozen food brands"
+     ]
+    }
+   ]
+  },
+  {
+   "campaign": 6,
+   "messages": [
+    {
+     "seed": "Mississippi man sentenced for bribing Georgia military base officials",
+     "para": [
+      "Mississippi man gets sentenced for paying bribes to Georgia base officials",
+      "Sentence handed down to Mississippian who bribed officials at a Georgia military base #news",
+      "Bribery of Georgia military base staff lands Mississippi man in prison",
+      "A Mississippi man has been sentenced in a Georgia military base bribery case"
+     ]
+    },
+    {
+     "seed": "Circus lions rescued in South America arrive in new African home #environment",
+     "para": [
+      "Lions rescued from South American circuses reach their new home in Africa",
+      "Former circus lions from South America finally arrive at an African sanctuary #animals",
+      "Rescued South American circus lions settle into new life in Africa",
+      "A new African home for lions saved from circuses in South America"
+     ]
+    },
+    {
+     "seed": "NASA Glenn celebrates 75 years of scientific and economic contributions",
+     "para": [
+      "NASA Glenn marks 75 years of science and economic impact",
+      "75th anniversary for NASA Glenn Research Center and its contributions #NASA",
+      "Celebrating 75 years: NASA Glenn's scientific and economic legacy",
+      "NASA's Glenn center honors three quarters of a century of innovation"
+     ]
+    },
+    {
+     "seed": "How to get around Super Bowl 50 road closures and traffic in San Francisco",
+     "para": [
+      "Your guide to dodging Super Bowl 50 traffic and road closures in SF",
+      "Navigating San Francisco's Super Bowl 50 street closures: what you need to know #SB50",
+      "Tips for beating the Super Bowl 50 traffic jams across San Francisco",
+      "Road closures for Super Bowl 50 in San Francisco and how to work around them"
+     ]
+    },
+    {
+     "seed": "Some circumstantial evidence is very strong, as when you find a trout in the milk.",
+     "para": [
+      "Circumstantial evidence can be strong - like finding a trout in your milk",
+      "\"Some circumstantial evidence is very strong, as when you find a trout in the milk\" #Thoreau",
+      "Finding a trout in the milk: proof that circumstantial evidence can be convincing",
+      "Not all circumstantial evidence is weak; a trout in the milk says a lot"
+     ]
+    },
+    {
+     "seed": "Nokia signs 3G deal with Bharti Airtel to cover big Indian states #tech",
+     "para": [
+      "Bharti Airtel picks Nokia for 3G expansion across major Indian states",
+      "Nokia wins 3G contract from Airtel covering large parts of India #telecom",
+      "Airtel and Nokia agree 3G network deal for big Indian regions",
+      "Nokia to build out 3G for Bharti Airtel in several large states in India"
+     ]
+    },
+    {
+     "seed": "Canadian church wants new PM to help free pastor detained in North Korea",
+     "para": [
+      "Canadian church asks the new prime minister to help free a pastor held in North Korea",
+      "Church urges Canada's new PM to work for release of pastor detained by Pyongyang #Canada",
+      "New Canadian PM called on to help secure release of pastor jailed in North Korea",
+      "A pastor detained in North Korea: his Canadian church appeals to the new PM"
+     ]
+    },
+    {
+     "seed": "Walnut Hills' Isaiah Johnson gets NBA Summer League invite from Houston Rockets",
+     "para": [
+      "Houston Rockets invite Walnut Hills grad Isaiah Johnson to Summer League",
+      "Isaiah Johnson of Walnut Hills earns a Summer League spot with the Rockets #NBA",
+      "Summer League call-up from the Rockets for Walnut Hills product Isaiah Johnson",
+      "Walnut Hills' Isaiah Johnson heading to NBA Summer League with Houston"
+     ]
+    },
+    {
+     "seed": "State still hasn't recovered from repeal of Stelly income tax reforms, letter says",
+     "para": [
+      "Letter argues the state never recovered after Stelly tax reforms were repealed",
+      "Repealing the Stelly plan still hurts state finances, according to a letter #Louisiana",
+      "State finances remain damaged by the repeal of Stelly income tax changes, writer says",
+      "Letter: Louisiana is still paying for the Stelly tax repeal"
+     ]
+    },
+    {
+     "seed": "Ban on smokeless tobacco at Chicago sporting events gets city panel OK",
+     "para": [
+      "Chicago panel approves banning smokeless tobacco at sports venues",
+      "City committee backs a ban on chewing tobacco at Chicago sporting events #Chicago",
+      "Smokeless tobacco ban for Chicago stadiums clears a city panel",
+      "Chicago moves closer to outlawing chew at ballparks and arenas"
+     ]
+    },
+    {
+     "seed": "Miami Southridge LB/S Nadarius Fagan picks up LSU offer #sports",
+     "para": [
+      "LSU extends an offer to Miami Southridge linebacker/safety Nadarius Fagan",
+      "Nadarius Fagan of Miami Southridge adds an offer from LSU #recruiting",
+      "Southridge LB/S Nadarius Fagan receives scholarship offer from LSU",
+      "Miami Southridge's Nadarius Fagan lands an LSU offer"
+     ]
+    },
+    {
+     "seed": "Paraguay says U.S. seeks extradition of ex-South American soccer chief",
+     "para": [
+      "US asks Paraguay to extradite former South American football boss",
+      "Paraguay confirms an American extradition request for the ex-CONMEBOL head #FIFA",
+      "Former South American soccer chief faces US extradition request, Paraguay says",
+      "Paraguay: Washington wants the ex-head of South American football extradited"
+     ]
+    }
+   ]
+  },
+  {
+   "campaign": 7,
+   "messages": [
+    {
+     "seed": "Chargers have agreement to play in 30,000-seat StubHub Center for next 2 seasons",
+     "para": [
+      "Chargers strike a deal to use the 30k-seat StubHub Center for two seasons",
+      "The Chargers will play their next two seasons at the StubHub Center, which holds 30,000 #NFL",
+      "Two-season agreement puts the Chargers in the 30,000-capacity StubHub Center",
+      "Chargers lock in StubHub Center as home field for the coming two seasons"
+     ]
+    },
+    {
+     "seed": "Norway helicopter crash investigation focuses on rotor blade mounting",
+     "para": [
+      "Investigators in Norway's helicopter crash zero in on the rotor mounting",
+      "Rotor blade attachment is the focus of the Norway chopper crash probe #aviation",
+      "Norway crash probe examines how the helicopter's rotor blades were mounted",
+      "Helicopter crash in Norway: inquiry centers on rotor blade fittings"
+     ]
+    },
+    {
+     "seed": "Melbourne Cup 2016: racegoers flood Flemington with champagne and picnic baskets",
+     "para": [
+      "Champagne and picnic baskets everywhere as crowds pack Flemington for the Melbourne Cup",
+      "Melbourne Cup day: Flemington fills with racegoers, bubbly and picnics #MelbourneCup",
+      "Racegoers arrive at Flemington armed with champagne for Melbourne Cup 2016",
+      "Flemington swamped by picnicking, champagne-sipping crowds on Cup day"
+     ]
+    },
+    {
+     "seed": "Former LSU star Blake Dean set for Alex Box homecoming as UNO head coach",
+     "para": [
+      "Blake Dean returns to Alex Box Stadium, now as UNO's head coach",
+      "Ex-LSU standout Blake Dean comes home to Alex Box leading UNO #LSU",
+      "Homecoming at Alex Box for former Tiger Blake Dean as UNO coach",
+      "UNO head coach Blake Dean, an LSU legend, heads back to Alex Box"
+     ]
+    },
+    {
+     "seed": "Chambers County issues evacuation orders after oil tanker fires in Beach City",
+     "para": [
+      "Oil tanker fires in Beach City prompt evacuation orders in Chambers County",
+      "Chambers County tells residents to evacuate as tankers burn in Beach City #Texas",
+      "Evacuations ordered in Chambers County after Beach City oil tank fires",
+      "Beach City oil tanker blaze leads Chambers County to order evacuations"
+     ]
+    },
+    {
+     "seed": "Child taken to hospital after nearly drowning at Jungle Island #Miami",
+     "para": [
+      "Child rushed to hospital after near-drowning at Miami's Jungle Island",
+      "Near-drowning at Jungle Island sends a young child to the hospital #local",
+      "A child nearly drowned at Jungle Island and was taken to hospital",
+      "Jungle Island incident: child hospitalized after almost drowning"
+     ]
+    },
+    {
+     "seed": "Oregon State's Gary Payton II wears his dad's number in victory over Washington State",
+     "para": [
+      "Gary Payton II honors his father by wearing his number as Oregon State beats Washington State",
+      "Oregon State wins over Wazzu with Gary Payton II in his dad's jersey number #Pac12",
+      "In his father's number, Gary Payton II leads Oregon State past Washington State",
+      "Payton II dons dad's famous number in Beavers' win against Washington State"
+     ]
+    },
+    {
+     "seed": "In India, private equity firms see new allure in old-world retail",
+     "para": [
+      "Private equity investors in India are warming to traditional retail",
+      "Old-school retail is attracting fresh private equity money in India #business",
+      "India's traditional retailers draw renewed interest from private equity",
+      "Why private equity firms are betting on India's old-world shops"
+     ]
+    },
+    {
+     "seed": "Coast Guard identifies oil in refuge and river as fuel oil; source still unknown",
+     "para": [
+      "Coast Guard says oil found in the refuge and river is fuel oil, origin unclear",
+      "Fuel oil confirmed in wildlife refuge and river, but the source remains a mystery #oilspill",
+      "Oil in river and refuge identified as fuel oil by Coast Guard; no source yet",
+      "Coast Guard: substance in the refuge is fuel oil, investigators still hunting the source"
+     ]
+    },
+    {
+     "seed": "Croatia candidates battle over tax cuts ahead of September polls",
+     "para": [
+      "Tax cuts dominate Croatia's campaign ahead of the September election",
+      "Croatian candidates clash over tax relief before September's vote #Croatia",
+      "With September polls approaching, Croatia's parties fight over tax cuts",
+      "Croatia election race heats up over competing tax cut promises"
+     ]
+    },
+    {
+     "seed": "Picks traded by the New Orleans Saints were used to select a QB they scouted",
+     "para": [
+      "The draft picks the Saints traded away were used on a quarterback they had scouted",
+      "Saints-traded picks ended up landing a QB New Orleans had looked at #NFLDraft",
+      "A QB the Saints scouted was drafted with picks they gave up",
+      "New Orleans traded picks that another team used on a quarterback the Saints liked"
+     ]
+    },
+    {
+     "seed": "Militants blow up oil pipeline in Niger Delta, youth leader says",
+     "para": [
+      "Niger Delta militants bomb an oil pipeline, according to a youth leader",
+      "Youth leader says militants destroyed an oil pipeline in the Niger Delta #Nigeria",
+      "Oil pipeline in Nigeria's Niger Delta blown up by militants, local leader reports",
+      "Militants attack Niger Delta pipeline, youth leader confirms"
+     ]
+    }
+   ]
+  }
+ ]
+}

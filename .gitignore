@@ -1,0 +1,7 @@
+data/glove-twitter-50.gz
+data/goemotions_train.tsv
+data/organic_chat.txt
+results/feature_cache.pkl
+results/*_log.txt
+__pycache__/
+*.pyc

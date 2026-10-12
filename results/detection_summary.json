@@ -1,0 +1,62 @@
+{
+  "semantic_tau": 0.7132770419120789,
+  "e0_pairs": {
+    "exact": {
+      "auc": 0.5,
+      "recognised_at_threshold": 0.0,
+      "false_match_rate": 0.0,
+      "threshold": 0.5
+    },
+    "tfidf": {
+      "auc": 0.99872591374269,
+      "recognised_at_threshold": 0.33125,
+      "false_match_rate": 0.0,
+      "threshold": 0.6
+    },
+    "semantic": {
+      "auc": 0.9862805327119883,
+      "recognised_at_threshold": 0.9135416666666667,
+      "false_match_rate": 0.02586842105263158,
+      "threshold": 0.7132770419120789
+    },
+    "n_positive_pairs": 960,
+    "n_negative_pairs": 114000
+  },
+  "e3_ablation": {
+    "all signals": {
+      "full_attack_ap": 0.9692846919247211,
+      "jitter60_ap": 0.999195410778181
+    },
+    "without exact": {
+      "full_attack_ap": 0.969228739051658,
+      "jitter60_ap": 0.9996454951967914
+    },
+    "without url": {
+      "full_attack_ap": 0.9668652527885562,
+      "jitter60_ap": 0.9993661408220267
+    },
+    "without tfidf": {
+      "full_attack_ap": 0.9085144667405493,
+      "jitter60_ap": 0.9112897170611515
+    },
+    "without semantic": {
+      "full_attack_ap": 0.844382893734077,
+      "jitter60_ap": 0.9174071854552895
+    },
+    "without timing": {
+      "full_attack_ap": 0.9678565068533295,
+      "jitter60_ap": 0.9993186621382252
+    }
+  },
+  "fused_feature_names": [
+    "exact",
+    "url",
+    "tfidf",
+    "semantic",
+    "timing",
+    "graph",
+    "log_comm_size",
+    "n_layers",
+    "n_posts"
+  ]
+}

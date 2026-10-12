@@ -1,0 +1,7 @@
+{
+ "word_jaccard_median": 0.35,
+ "char_tfidf_cos_median": 0.5521264512221928,
+ "share_char_cos_below_0_6": 0.6223958333333334,
+ "n_seeds": 96,
+ "n_paraphrases": 384
+}
